@@ -2,3 +2,4 @@
 **/__pycache__
 phonebook.csv
 phonebook_raw.csv
+func_logger.log
